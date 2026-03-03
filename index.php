@@ -1,2 +1,2 @@
 <?php
-echo "Hello World! Update 6";
+echo "Hello World! Update 7";
